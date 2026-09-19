@@ -17,7 +17,7 @@
  - git add, git add .;
  - git commit -m;
  - git status;
- - git remote set-url origin;
+ - git remote add origin;
  - git push origin main, git push origin master;
  - git pull origin;
  
