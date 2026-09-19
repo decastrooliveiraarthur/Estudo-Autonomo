@@ -19,5 +19,5 @@
  - git status;
  - git remote add origin;
  - git push origin main, git push origin master;
- - git pull origin;
+ - git pull origin main, git pull origin master;
  
